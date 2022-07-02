@@ -1,3 +1,4 @@
+   /*header*/
 .home-logo{
     padding-left: 25px;}
 div{
@@ -13,12 +14,15 @@ a{
     color: black}
 p.precio{
     font-size: 18px;}
-.home-header-menu{
+.home-header-menu {
     text-align: center;
+    border-radius: 5px;
     font-size: 20px;
     padding: 5px;
     color: white;
-    background-color: #1259c3;}
+    background-color: #1259c3;
+    box-sizing: border-box;}
+    /*footer*/
 .home-footer-li{
     text-align: center;
     font-weight: bold;
